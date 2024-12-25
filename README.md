@@ -4,7 +4,7 @@
 ## установка
 требуется Pythonv2024.22.0
 ```bash
-git clone git@github.com:lizka221/-.git
+git clone git@github.com:lizka221/-.-.git
 python3 -m pip install pygame
 python3 -m venv path/to/venv
 source path/to/venv/bin/activate
