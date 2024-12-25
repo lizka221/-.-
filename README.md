@@ -9,7 +9,7 @@ python3 -m pip install pygame
 python3 -m venv path/to/venv
 source path/to/venv/bin/activate
 python3 -m pip install pygame
-python3 'play module.py'
+python3 'игра.py'
 ```
 ## правила 
 В появившемся окне выберите вариант, который хоитете использовать (камень, ножницы или бумага) и нажмите на кнопку с этим вариантом. По середине окна появится итог игры вас с компьютером.
