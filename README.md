@@ -2,7 +2,7 @@
 ## описание 
 Этот проект представляет собой простую игру "Камень, ножницы, бумага", написанную на Python
 ## установка
-требуется Pythonv2024.22.0
+требуется Python 3
 ```bash
 git clone git@github.com:lizka221/-.-.git
 python3 -m pip install pygame
